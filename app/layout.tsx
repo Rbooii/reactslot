@@ -1,3 +1,5 @@
+//this was edited on usb mac
+
 import type { Metadata } from "next";
 import "./globals.css";
 import { ThemeProvider } from "@/components/written/theme-provider";
